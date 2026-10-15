@@ -1,0 +1,12 @@
+# Do not commit confidential manuscript or reviewer materials
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.webp
+.DS_Store
+__pycache__/
